@@ -1,0 +1,16 @@
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/1.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/2.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/3.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/4.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/5.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/6.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/7.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/8.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/9.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/10.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/11.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/12.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/13.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/14.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/15.jpg
+/home/blind_arbiter/Qt code/untitled74/build/Desktop_Qt_6_7_3-Debug/Z/16.jpg
